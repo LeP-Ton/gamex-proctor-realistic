@@ -4,7 +4,7 @@
 
 - 试玩：https://lep-ton.github.io/gamex-proctor-realistic/
 - 权威源码：[LeP-Ton/gamex-proctor-simulator 的 codex/realistic 分支](https://github.com/LeP-Ton/gamex-proctor-simulator/tree/codex/realistic)。
-- 本次固定源码：`2e13e972e7bf2090cdcbd7d518cad85780b87d8c`。
+- 本次固定源码：`bbe42aba1570c2c6e29a4b0dc9b80dbb2abfc1b4`。
 - 运行时文件与上述源码一致；独立工作流、本文及发布来源说明属于部署适配。
 - 发布来源详见 [deployment.json](public/deployment.json)。源码与需求文档在原仓库维护，本仓库历史提交保留同步记录。
 
